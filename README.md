@@ -1,8 +1,8 @@
-# Terminal.ink Bot List Backend
-- [Development Backend](https://api.ls.mss.ovh/)
-- [Development Frontend](https://ls.mss.ovh/)
+# ~~Terminal.ink Bot List Backend~~ botlist.space
+- ~~[ls.terminal.ink](https://ls.terminal.ink/)~~
+- [botlist.space](https://botlist.space)
 
-For information, try [our Discord server.](https://discordapp.com/invite/8uC6aKZ)
+~~For information, try [our Discord server.](https://discordapp.com/invite/8uC6aKZ)~~
 
 ## Development
 1. `yarn install`
@@ -15,7 +15,9 @@ For information, try [our Discord server.](https://discordapp.com/invite/8uC6aKZ
 1. `yarn run`
 
 ## What the hell is this?
-This is the new backend for ls.terminal.ink, which may or may not be renamed to `discordbots.co.uk` in the future.
+~~This is the new backend for ls.terminal.ink, which may or may not be renamed to `discordbots.co.uk` in the future.~~
+
+This is the backend for botlist.space
 
 # Licence
 Please read `LICENCE.md`
